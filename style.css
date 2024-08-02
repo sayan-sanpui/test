@@ -1,0 +1,60 @@
+.right {
+    margin-right: 50rem;
+}
+
+@media only screen and (max-width: 946px) {
+    .right {
+        margin-right: 0;
+    }
+}
+
+
+.cp1 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 53px;
+}
+
+.cp-2 {
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 16;
+}
+
+.foot {
+    background-color: #263238;
+}
+
+h1,
+h2 {
+    color: white;
+}
+
+body.active {
+    background: rgb(71, 71, 71);
+}
+
+#cp2.active {
+    color: white;
+}
+
+#cp0.active {
+    color: white;
+}
+
+#cp3.active {
+    color: white;
+}
+
+#cp4.active {
+    color: white;
+}
+
+#cp5.active {
+    color: white;
+}
+#h-1.active{
+    color: white;
+}
